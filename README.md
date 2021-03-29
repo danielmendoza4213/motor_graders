@@ -10,4 +10,3 @@
 6.ampl 4
 7.rms 4
 8.zcr 4
-9.band. 4
