@@ -15,7 +15,7 @@
 
 # Machine conditions monitoring
 
-This project outcome belongs to **Gülce Padem** who is currently a junior Data Scientist/AI Operator in making at BeCode's Theano 2.27 promotion.
+This project outcome belongs to **Daniel Mendoza** and **Gülce Padem** who are currently junior Data Scientists/AI Operators in making at BeCode's Theano 2.27 promotion.
 
 **Repository:** motor_graders
 
