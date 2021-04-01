@@ -1,18 +1,3 @@
-### Sound ...
-
-#### Features :
-
-1.Chroma 4
-2.MelSpec 4
-3.mfcc 4
-4.centroid 4
-5.Onset 1
-6.ampl 4
-7.rms 4
-8.zcr 4
-
-
-
 # Machine conditions monitoring
 
 This project outcome belongs to **Daniel Mendoza** and **Gülce Padem** who are currently junior Data Scientists/AI Operators in making at BeCode's Theano 2.27 promotion.
@@ -63,26 +48,30 @@ Our mission is to build a machine learning model for Acme so they can continue t
 
 ### Installation
 
-For requested packages, conda package manager was used. Needed packages are the following (see the parantheses for the command to install with conda):
+For requested packages, conda package manager was used. Extra needed packages are the following (see the parantheses for the command to install with conda):
 
 * pandas (conda install -c conda-forge pandas)
+* librosa (conda install -c conda-forge librosa)
+* imblearn (conda install -c conda-forge imblearn)
 
 Jupyter Notebook was installed and launched from the Conda navigator activated in the working environment.
 
 ### Repository
 
-There are two branches under the repository.
+There is only a **master** branche under the repository.
 
-* main
-* development
-
-At the and of the project these two were merged and the needed files are now on main.
-
-#### Main Branch
+#### Master Branch
 
 The structure:
 
 * README.md
+* 0.Files_info
+* 1.Features_and_targets
+* 2.Models
+* Exploration_phase
+* k_fold
+* random_forest
+* .gitignore
 
 
 `README.md`
@@ -90,12 +79,7 @@ You are reading it now. It is important to read the whole file before forking or
 
 
 `.gitignore`
-This file is to ignore
-
-- the notebook checkpoints
-
-- audio files
-
+This file is to ignore the notebook checkpoints
 
 #### Development Branch
 
