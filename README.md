@@ -58,32 +58,35 @@ Jupyter Notebook was installed and launched from the Conda navigator activated i
 
 ### Repository
 
-There is only a **master** branche under the repository.
+There is only a **master** branch under the repository.
 
 #### Master Branch
 
 The structure:
 
-* README.md
 * 0.Files_info
 * 1.Features_and_targets
 * 2.Models
+* 3.Code
 * Exploration_phase
-* k_fold
-* random_forest
 * .gitignore
+* README.md
 
+`0.Files_info`
 
-`README.md`
-You are reading it now. It is important to read the whole file before forking or cloning.
+In this folder it is possible to find several csv files per machine part types including information about the specifics.
+
+`1.Features_and_targets`
 
 
 `.gitignore`
-This file is to ignore the notebook checkpoints
 
-#### Development Branch
+This file is to ignore the notebook checkpoints.
 
-Can be discarded for now. Will be back in use for the further developments of the project and the README file will be updated accordingly.
+`README.md`
+
+You are reading it now. It is important to read the whole file before forking or cloning.
+
 
 ### Visual
 
@@ -91,10 +94,14 @@ Can be discarded for now. Will be back in use for the further developments of th
 
 ### Pending things to do
 
+We believe that with further feature engineering and hyperparameter tuning, we can make a better model hence better predictions for this specific case.
+
+We would also like to create a validation dataset with random data found on the internet to see how our model really performs.
+
 
 ### Acknowledgments
 
-
+We would like to thank my coaches Chrysanthi Katrini and Alber Dominguez for giving us the opportunity to work on an interesting use case as this. We also would like to thank our colleagues from BeCode Theano 2.27 promotion for making every project a group effort.
 
 ### Collaboration
 
