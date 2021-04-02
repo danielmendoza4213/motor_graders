@@ -69,6 +69,7 @@ The structure:
 - 2.Models
 - 3.Code
 - Exploration_phase
+- images
 - .gitignore
 - README.md
 
@@ -92,6 +93,10 @@ In this folder it is possible to find the code we have written to extract featur
 
 This folder has all the trials and error we have encountered during the development part of our project. We like to keep it for further inspiration. Cause a project is never finished :)
 
+`images`
+
+In this folder you can find the visuals.
+
 `.gitignore`
 
 This file is to ignore the notebook checkpoints.
@@ -102,7 +107,9 @@ You are reading it now. It is important to read the whole file before forking or
 
 ### Visual
 
-![Metrics](images\metrics.png)
+Our metrics of our model with the whole dataset
+
+![Metrics](images/metrics.png)
 
 ### Pending things to do
 
@@ -112,7 +119,7 @@ We would also like to create a validation dataset with random data found on the 
 
 ### Acknowledgments
 
-We would like to thank my coaches Chrysanthi Katrini and Alber Dominguez for giving us the opportunity to work on an interesting use case as this. We also would like to thank our colleagues from BeCode Theano 2.27 promotion for making every project a group effort.
+We would like to thank our coaches Chrysanthi Katrini and Alber Dominguez for giving us the opportunity to work on an interesting use case as this. We also would like to thank our colleagues from BeCode Theano 2.27 promotion for making every project a group effort.
 
 ### Collaboration
 
