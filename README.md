@@ -102,7 +102,7 @@ You are reading it now. It is important to read the whole file before forking or
 
 ### Visual
 
-![Metrics](images\metrics.png)
+<img src="images/metrics.pnd" alt="metric" width="200"/>
 
 ### Pending things to do
 
