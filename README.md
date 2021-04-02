@@ -110,6 +110,7 @@ You are reading it now. It is important to read the whole file before forking or
 Our metrics of our model with the whole dataset
 
 ![Metrics](images/metrics.png)
+<img src="images/metrics.png" alt="metric" width="200"/>
 
 ### Pending things to do
 
