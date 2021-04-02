@@ -88,7 +88,7 @@ In this folder it is possible to find the model applied to different machine par
 
 In this folder it is possible to find the code we have written to extract features, create a model, look for feature importances and the implementation of the model. If you would like to try the model on your data, please go to file 4.
 
-* Exploration_phase
+`Exploration_phase`
 
 This folder has all the trials and error we have encountered during the development part of our project. We like to keep it for further inspiration. Cause a project is never finished :)
 
