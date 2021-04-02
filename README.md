@@ -39,20 +39,20 @@ Our mission is to build a machine learning model for Acme so they can continue t
 
 ### Table of Contents
 
-* Installation
-* Repository
-* Visual
-* Pending things to do
-* Acknowledgments
-* Collaboration
+- Installation
+- Repository
+- Visual
+- Pending things to do
+- Acknowledgments
+- Collaboration
 
 ### Installation
 
 For requested packages, conda package manager was used. Extra needed packages are the following (see the parantheses for the command to install with conda):
 
-* pandas (conda install -c conda-forge pandas)
-* librosa (conda install -c conda-forge librosa)
-* imblearn (conda install -c conda-forge imblearn)
+- pandas (conda install -c conda-forge pandas)
+- librosa (conda install -c conda-forge librosa)
+- imblearn (conda install -c conda-forge imblearn)
 
 Jupyter Notebook was installed and launched from the Conda navigator activated in the working environment.
 
@@ -64,20 +64,19 @@ There is only a **master** branch under the repository.
 
 The structure:
 
-* 0.Files_info
-* 1.Features_and_targets
-* 2.Models
-* 3.Code
-* Exploration_phase
-* .gitignore
-* README.md
+- 0.Files_info
+- 1.Features_and_targets
+- 2.Models
+- 3.Code
+- Exploration_phase
+- .gitignore
+- README.md
 
 `0.Files_info`
 
 In this folder it is possible to find several csv files per machine part types including information about the specifics.
 
 `1.Features_and_targets`
-
 
 `.gitignore`
 
@@ -87,17 +86,15 @@ This file is to ignore the notebook checkpoints.
 
 You are reading it now. It is important to read the whole file before forking or cloning.
 
-
 ### Visual
 
-
+![Metrics](images\metrics.png)
 
 ### Pending things to do
 
 We believe that with further feature engineering and hyperparameter tuning, we can make a better model hence better predictions for this specific case.
 
 We would also like to create a validation dataset with random data found on the internet to see how our model really performs.
-
 
 ### Acknowledgments
 
