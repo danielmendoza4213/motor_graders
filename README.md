@@ -74,10 +74,23 @@ The structure:
 
 `0.Files_info`
 
-In this folder it is possible to find several csv files per machine part types including information about the specifics.
+In this folder it is possible to find several csv files per machine part type including information about the specifics.
 
 `1.Features_and_targets`
 
+In this folder it is possible to find several csv files per machine part type including features and targets extracted for the machine learning model.
+
+`2.Models`
+
+In this folder it is possible to find the model applied to different machine part types and to whole dataset.
+
+`3.Code`
+
+In this folder it is possible to find the code we have written to extract features, create a model, look for feature importances and the implementation of the model. If you would like to try the model on your data, please go to file 4.
+
+* Exploration_phase
+
+This folder has all the trials and error we have encountered during the development part of our project. We like to keep it for further inspiration. Cause a project is never finished :)
 
 `.gitignore`
 
